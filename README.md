@@ -16,12 +16,12 @@ Welcome to the **Word Definition Lookup** project! This is a simple web applicat
 ## Example Images
 
 ### Homepage - Hero Section
-![Screenshot](https://github.com/your-username/your-repo/blob/main/images/screenshot.png?raw=true)
+![Screenshot](https://raw.githubusercontent.com/ayushsingh-ayushsingh/WordLookup/refs/heads/main/Screenshot%202025-02-16%20151018.png)
 
 ### Light Mode
-![Screenshot](https://github.com/your-username/your-repo/blob/main/images/screenshot.png?raw=true)
+![Screenshot](https://raw.githubusercontent.com/ayushsingh-ayushsingh/WordLookup/refs/heads/main/Screenshot%202025-02-16%20144539.png)
 
 ### Dark Mode
-![Screenshot](https://github.com/your-username/your-repo/blob/main/images/screenshot.png?raw=true)
+![Screenshot](https://raw.githubusercontent.com/ayushsingh-ayushsingh/WordLookup/refs/heads/main/Screenshot%202025-02-16%20144754.png)
 
 Try Now!
