@@ -2,7 +2,7 @@
 
 Welcome to the **Word Definition Lookup** project! This is a simple web application that allows you to look up the definition, phonetic details, and other information for any English word using the [Dictionary API](https://dictionaryapi.dev/).
 
-# [Visit WordLookup](https://ayushsingh-ayushsingh.github.io/WordLookup/)
+## Visit WordLookup at: [WordLookup](https://ayushsingh-ayushsingh.github.io/WordLookup/)
 
 ## Features
 
@@ -24,4 +24,4 @@ Welcome to the **Word Definition Lookup** project! This is a simple web applicat
 ### Dark Mode
 ![Screenshot](https://github.com/your-username/your-repo/blob/main/images/screenshot.png?raw=true)
 
-[Visit WordLookup](https://ayushsingh-ayushsingh.github.io/WordLookup/)
+Try Now!
